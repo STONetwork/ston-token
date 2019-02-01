@@ -38,6 +38,7 @@ Identification of potential security flaws/attacks including :
 | Audit Date | January 28, 2019 |
 | Audit Team | SlowMist Security Team |
 
-This is a token contract that does not contain the tokenVault section. The
-contract does not have the Overflow, the Race Conditions issue. The comprehensive
-evaluation contract is no risk.
+This is a token contract that does not contain the tokenVault section. 
+The contract does not have the Overflow, the Race Conditions issue. 
+**The comprehensive evaluation contract is no risk.**
+
