@@ -15,7 +15,7 @@ Being the largest security token offering (STO) marketplace in Asia, [STO Networ
 This directory contains the solidity smart contract code of [STON](https://etherscan.io/address/0x1571c3815bd411c39daed0e61b8eecb37c441486) that was launched to the Ethereum network on 2019/1/29.  
 
 ## audit
-This directory contains the audit report for the solidity smart contract code of [STONetwork](https://etherscan.io/address/0x1571c3815bd411c39daed0e61b8eecb37c441486)  token by ** [slow mist](https://slowmist.com) **
+This directory contains the audit report for [STON](https://etherscan.io/address/0x1571c3815bd411c39daed0e61b8eecb37c441486)'s smart contract by *[slow mist](https://slowmist.com)*
 
 License
 ----
