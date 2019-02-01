@@ -6,7 +6,7 @@
 
 This is [STON](https://etherscan.io/token/0x1571c3815bd411c39daed0e61b8eecb37c441486) token address on the Ethereum network: 0x1571c3815bd411c39daed0e61b8eecb37c441486
 
-Being the largest [security token offering](https://stonetwork.com/security-tokens-real-estates/) [(STO)](https://stonetwork.com/what-is-sto/) marketplace in Asia, [STO Network](https://stonetwork.com) focuses on the promotion of STO. [STO Network](https://stonetwork.com)  provides market participants with a variety of services and valuable information through their marketplace and news media platform. [STO Network](https://stonetwork.com) is a platform under [CoinsNetwork](https://www.coinsnetwork.com/en/) and was established in December 2018 to bridge the gap between traditional finance and cryptocurrency and to explore the opportunities in the security token market.
+Being the largest [security token offering](https://stonetwork.com/security-tokens-real-estates/) [(STO)](https://stonetwork.com/what-is-sto/) marketplace in Asia, [STO Network](https://stonetwork.com) focuses on the promotion of STO. [STO Network](https://stonetwork.com)  provides market participants with a variety of services and valuable information through their marketplace and news media platform. [STO Network](https://stonetwork.com) is a platform under [CoinsNetwork](https://www.coinsnetwork.com/en/) and was established in December 2018 to bridge the gap between traditional finance and cryptocurrency and to explore the opportunities in the [security token](https://stonetwork.com/what-is-security-token/) market.
 
 ### Directory structure 
 
