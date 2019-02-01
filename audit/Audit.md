@@ -32,7 +32,7 @@ Identification of potential security flaws/attacks including :
 
 ### Audit Summary Report 
 | Item Description | Result |
-| ------------- | ------------- |
+|     :---:       |     :---:       |
 | Audit Result | Passed |
 | Audit Number | 0X001901280001 |
 | Audit Date | January 28, 2019 |
