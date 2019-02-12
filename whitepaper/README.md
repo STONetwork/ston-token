@@ -1,3 +1,0 @@
-[![STONetwork](https://stonetwork.com/wp-content/uploads/2019/01/STO_aboutUS.jpg)](https://stonetwork.com/about/)
-[STO Network](https://stonetwork.com) is the largest marketplace in Asia leading the way merging crypto markets with traditional finance in a new security token matching portal, set to launch in 2019. 
-The goal of [STO Network](https://stonetwork.com) is to connect carefully vetted STO Projects, Services Providers and Investors with KYC-verified investors on a global scale, ensuring legal compliance every step of the way
